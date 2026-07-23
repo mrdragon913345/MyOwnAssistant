@@ -1,0 +1,140 @@
+3000: </USER_REQUEST>
+3001: <ADDITIONAL_METADATA>
+3002: The current local time is: 2026-06-23T06:10:50-07:00.
+3003: </ADDITIONAL_METADATA>
+3004: --- USER INPUT ---
+3005: <USER_REQUEST>
+3006: is speed and time on one seperate line from latest results
+3007: </USER_REQUEST>
+3008: <ADDITIONAL_METADATA>
+3009: The current local time is: 2026-06-23T06:13:51-07:00.
+3010: </ADDITIONAL_METADATA>
+3011: --- USER INPUT ---
+3012: <USER_REQUEST>
+3013: can u add /vps cmd for to check live vps usage
+3014: </USER_REQUEST>
+3015: <ADDITIONAL_METADATA>
+3016: The current local time is: 2026-06-23T06:17:25-07:00.
+3017: </ADDITIONAL_METADATA>
+3018: <USER_SETTINGS_CHANGE>
+3019: The user changed setting `Model Selection` from Gemini 3.1 Pro (High) to Gemini 3.1 Pro (Low). No need to comment on this change if the user doesn't ask about it. If reporting what model you are, please use a human readable name instead of the exact string.
+3020: </USER_SETTINGS_CHANGE>
+3021: --- USER INPUT ---
+3022: <USER_REQUEST>
+3023: also add also current users using and checking total ccs also.what emjis u nede
+3024: </USER_REQUEST>
+3025: <ADDITIONAL_METADATA>
+3026: The current local time is: 2026-06-23T06:20:26-07:00.
+3027: </ADDITIONAL_METADATA>
+3028: --- USER INPUT ---
+3029: <USER_REQUEST>
+3030: 1. vps emji 2 cpu 3 user count 4 ram 5 uptime 7.totla usage. i dont want toatal disk uages.also add total workers count with 6 emoji
+3031: </USER_REQUEST>
+3032: <ADDITIONAL_METADATA>
+3033: The current local time is: 2026-06-23T06:28:26-07:00.
+3034: </ADDITIONAL_METADATA>
+3035: --- USER INPUT ---
+3036: <USER_REQUEST>
+3037: fix any issues or bugs on newly added features and upgrades
+3038: </USER_REQUEST>
+3039: <ADDITIONAL_METADATA>
+3040: The current local time is: 2026-06-23T06:31:23-07:00.
+3041: </ADDITIONAL_METADATA>
+3042: <USER_SETTINGS_CHANGE>
+3043: The user changed setting `Model Selection` from Gemini 3.1 Pro (Low) to Gemini 3.1 Pro (High). No need to comment on this change if the user doesn't ask about it. If reporting what model you are, please use a human readable name instead of the exact string.
+3044: </USER_SETTINGS_CHANGE>
+3045: --- USER INPUT ---
+3046: <USER_REQUEST>
+3047: also check previously added upgrades which still don't push
+3048: </USER_REQUEST>
+3049: <ADDITIONAL_METADATA>
+3050: The current local time is: 2026-06-23T06:34:39-07:00.
+3051: </ADDITIONAL_METADATA>
+3052: --- USER INPUT ---
+3053: <USER_REQUEST>
+3054: what are u doi6now
+3055: </USER_REQUEST>
+3056: <ADDITIONAL_METADATA>
+3057: The current local time is: 2026-06-23T06:48:25-07:00.
+3058: </ADDITIONAL_METADATA>
+3059: --- USER INPUT ---
+3060: <USER_REQUEST>
+3061: i ask only to check error on that all the new features and fixes u did after the latest push on shopi
+3062: </USER_REQUEST>
+3063: <ADDITIONAL_METADATA>
+3064: The current local time is: 2026-06-23T06:51:07-07:00.
+3065: </ADDITIONAL_METADATA>
+3066: --- USER INPUT ---
+3067: <USER_REQUEST>
+3068: make while bot on maintaining mode users cant use bot unless the admins
+3069: </USER_REQUEST>
+3070: <ADDITIONAL_METADATA>
+3071: The current local time is: 2026-06-23T06:54:03-07:00.
+3072: </ADDITIONAL_METADATA>
+3073: --- USER INPUT ---
+3074: <USER_REQUEST>
+3075: push shopi
+3076: </USER_REQUEST>
+3077: <ADDITIONAL_METADATA>
+3078: The current local time is: 2026-06-23T06:56:34-07:00.
+3079: </ADDITIONAL_METADATA>
+3080: --- USER INPUT ---
+3081: <USER_REQUEST>
+3082: i have 8 quesned deploy on coolify .why
+3083: </USER_REQUEST>
+3084: <ADDITIONAL_METADATA>
+3085: The current local time is: 2026-06-23T06:59:23-07:00.
+3086: </ADDITIONAL_METADATA>
+3087: --- USER INPUT ---
+3088: <USER_REQUEST>
+3089: push again jsing the previous gh push script u made earlier pushes
+3090: </USER_REQUEST>
+3091: <ADDITIONAL_METADATA>
+3092: The current local time is: 2026-06-23T07:01:10-07:00.
+3093: </ADDITIONAL_METADATA>
+3094: --- USER INPUT ---
+3095: <USER_REQUEST>
+3096: i want all pushes on one deploy
+3097: </USER_REQUEST>
+3098: <ADDITIONAL_METADATA>
+3099: The current local time is: 2026-06-23T07:03:40-07:00.
+3100: </ADDITIONAL_METADATA>
+3101: --- USER INPUT ---
+3102: <USER_REQUEST>
+3103: 2026-06-23 14:06:32 +0000] [27] [INFO] Booting worker with pid: 27[2026-06-23 14:06:32 +000 Starting Telegram Bot...[2026-06-23 1 :06:32 +6-00] [214:06:32 +0000]ng worker with pirol socket listening at /root/.gunicor [L mode.Traceback (minitrecent cauccessfully in WAL modemain.py", line 6mport maodule> e_middleware[stiting 10 seconds[start]orkers, 5000 threads eacy API ustart] WaGImpo  Error: c] [INFO] Starting gunico 14:06:48 +0000] [12] [I000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections48 +0000] [12] [WARNING] No keepalived connections
+3104: </USER_REQUEST>
+3105: <ADDITIONAL_METADATA>
+3106: The current local time is: 2026-06-23T07:08:08-07:00.
+3107: </ADDITIONAL_METADATA>
+3108: --- USER INPUT ---
+3109: <USER_REQUEST>
+3110: fix it quickly
+3111: </USER_REQUEST>
+3112: <ADDITIONAL_METADATA>
+3113: The current local time is: 2026-06-23T07:12:19-07:00.
+3114: </ADDITIONAL_METADATA>
+3115: --- USER INPUT ---
+3116: <USER_REQUEST>
+3117: use this in refferal button and and its msg cup in standard emoji to this 6179411633371095707 amd other 4 to 10 users have this 6181722102438042117.laso fix bot.handlers.router - INFO - Unknown callback action uid=8171100881 data=ref_menu
+3118: </USER_REQUEST>
+3119: <ADDITIONAL_METADATA>
+3120: The current local time is: 2026-06-23T07:22:04-07:00.
+3121: </ADDITIONAL_METADATA>
+3122: --- USER INPUT ---
+3123: <USER_REQUEST>
+3124: 2026-06-23 14:27:2ack action uid=8171100881 data=ref_menuknown callback action uid=8171100881 data=ref_menu.check the latest ptb docs to get invite link option
+3125: </USER_REQUEST>
+3126: <ADDITIONAL_METADATA>
+3127: The current local time is: 2026-06-23T07:28:45-07:00.
+3128: </ADDITIONAL_METADATA>
+3129: --- USER INPUT ---
+3130: <USER_REQUEST>
+3131: still u dindt change repsonse msg of cc
+3132: </USER_REQUEST>
+3133: <ADDITIONAL_METADATA>
+3134: The current local time is: 2026-06-23T07:31:59-07:00.
+3135: </ADDITIONAL_METADATA>
+3136: --- USER INPUT ---
+3137: <USER_REQUEST>
+3138: i also ask that new template give u for full update response msg
+3139: </USER_REQUEST>
